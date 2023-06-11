@@ -3,3 +3,4 @@ foo
 bar
 hoge
 hoge
+add1
